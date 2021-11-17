@@ -1,3 +1,4 @@
 # Folders to Ignore
 recipes
 .ipynb_checkpoints
+json
