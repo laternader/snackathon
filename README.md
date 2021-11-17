@@ -4,3 +4,4 @@ The app is to "stumble upon" recipes with the click of a button. The interface o
 ---
 # Introduction
 
+The story is built [here](https://www.pewresearch.org/internet/2017/05/17/tech-adoption-climbs-among-older-adults/).
