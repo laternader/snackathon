@@ -1,4 +1,9 @@
 # Folders to Ignore
 recipes
 .ipynb_checkpoints
-json
+
+# Specific files to ignore
+recipes250k.json
+recipes20k.json
+recipes.json
+about50k.json
