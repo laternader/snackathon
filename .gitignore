@@ -7,3 +7,6 @@ recipes250k.json
 recipes20k.json
 recipes.json
 about50k.json
+
+# BFG Cleaner
+bfg-1.14.0.jar
