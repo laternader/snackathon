@@ -7,3 +7,5 @@ The app is to "stumble upon" recipes with the click of a button. The interface o
 The story is built [here](https://www.pewresearch.org/internet/2017/05/17/tech-adoption-climbs-among-older-adults/).
 
 The name of our app is [Reci Please](http://hackathon-snackathon.vercel.app/)!
+
+The presentation is [here](https://docs.google.com/presentation/d/1Pl_dZkKc_ycvlCyv8esRCOkdIyBdmVFeQOejYv2S3bs/edit#slide=id.g6408f5a9af_1_336).
